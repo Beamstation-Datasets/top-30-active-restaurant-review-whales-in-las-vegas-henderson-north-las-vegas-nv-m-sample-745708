@@ -1,12 +1,12 @@
 {
-  "export_job_id": "839bb40b-17a7-4c4e-bbbe-af677bbfe369",
+  "export_job_id": "0811c8a6-7b4b-4c61-bf1f-78d88da4a305",
   "id_short": 745708,
-  "published_at": "2026-04-18T19:49:51Z",
+  "published_at": "2026-04-23T07:08:09Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-las-vegas-henderson-north-las-vegas-nv-m-sample-745708",
   "sample_asset_name": "beamstation_745708_restaurants-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/745708/beamstation_745708_restaurants-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv",
-  "sample_records": 130,
-  "sample_sha256": "591df431cdda85bba085cbe277399181ae0b66266eea564fb1436eecd2fb7c5c",
-  "sample_size_bytes": 544413,
-  "total_records": 1309
+  "sample_records": 103,
+  "sample_sha256": "53cfd930bfa76b0e30672f6200e055b10d8e06a90b6a7301d71df935ed39047d",
+  "sample_size_bytes": 433843,
+  "total_records": 1031
 }
