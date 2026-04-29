@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Las Vegas-Henderson-North Las Vegas, NV Metro Area, US
 
-> Free BeamStation sample export with 103 rows and masked direct-contact fields.
+> Free BeamStation sample export with 176 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `745708` |
 | Location | Las Vegas-Henderson-North Las Vegas, NV |
 | Category | Restaurants |
-| Full dataset size | 1,031 records |
-| Free sample size | 103 records (9.99%) |
-| Last export | 2026-04-22T08:13:34.026182+00:00 |
+| Full dataset size | 1,760 records |
+| Free sample size | 176 records (10.0%) |
+| Last export | 2026-04-29T09:57:53.465367+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-las-vegas-henderson-north-las-vegas-nv-m-sample-745708/releases/download/sample-latest/beamstation_745708_restaurants-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
